@@ -8,38 +8,45 @@
 
 ## Learning Objectives: Since this is a team project, you may want to articulate both shared and individual learning goals.
 
-**Isaac’s Goals:** Learning how to use the CrunchBase API and master this API to then maybe learn how to use the PitchBook API which is a similar company that Crunch Base, since I work in Venture Capital, this can be a tool that my company can essentially use internally and if it’s valuable enough I can potentially sell the technology to other VC firms.
-**Sabi Goals:** Learning how to use automated notifications using python and different packages. Exploring different kinds of packages available in python libraries and also internet.
-**Mutual Goals:** Learning how to collaborate, work in a team on a coding project and learn discipline/trial and error by sticking to our project timeline.
++ **Isaac’s Goals:** Learning how to use the CrunchBase API and master this API to then maybe learn how to use the PitchBook API which is a similar company that Crunch Base, since I work in Venture Capital, this can be a tool that my company can essentially use internally and if it’s valuable enough I can potentially sell the technology to other VC firms.
+  
++ **Sabi Goals:** Learning how to use automated notifications using python and different packages. Exploring different kinds of packages available in python libraries and also internet.
+  
++ **Mutual Goals:** Learning how to collaborate, work in a team on a coding project and learn discipline/trial and error by sticking to our project timeline.
 
 ## Implementation Plan: This part may be somewhat ambiguous initially. You might have identified a library or a framework that you believe would be helpful for your project at this early stage. If you're uncertain about executing your project plan, provide a rough plan describing how you'll investigate this information further.
-Crunchbase API (Documentation [Here] (https://data.crunchbase.com/docs/crunchbase-basic-using-api))
+Crunchbase API (Documentation [Here](https://data.crunchbase.com/docs/crunchbase-basic-using-api))
 Library to analyze the trends and data
 We are considering using Flask as an interface and HTML to allow user input, but this may vary depending on our progress and priorities.
 Library to connect one of the desired channels to receive the information. (We will play around with different ones and then choose the best one/s)
-Slack (More [here] (https://slack.dev/python-slack-sdk/))
-For telegram, there is a Python telegram bot (More [here] (https://github.com/python-telegram-bot/python-telegram-bot))
-Gmail API (More [here] (https://thepythoncode.com/article/use-gmail-api-in-python))
-Spreadsheets (More [here] (https://developers.google.com/sheets/api/quickstart/python))
+Slack (More [here](https://slack.dev/python-slack-sdk/))
+For telegram, there is a Python telegram bot (More [here](https://github.com/python-telegram-bot/python-telegram-bot))
+Gmail API (More [here](https://thepythoncode.com/article/use-gmail-api-in-python))
+Spreadsheets (More [here](https://developers.google.com/sheets/api/quickstart/python))
 
 
 ## Project Schedule: You have 6 weeks (roughly) to finish the project. Draft a general timeline for your project. Depending on your project, you might be able to provide a detailed schedule or only an overview. Preparation of a longer project is also accompanied by present uncertainty, and this schedule will likely require revisions as the project progresses.
 
-The project presentation is due 12/04 and code submission is 12/09/
-**Timeline:**
++ The project presentation is due 12/04 and code submission is 12/09/
+
+
+### Timeline:
+
 **Week 1 (Nov 13th-19th)**
-Read and understand the CrunchBase API documentation
-Set up initial environment and API keys.
-**Week 2 (Nov 20th - 26th)**
-Begin developing the core functionality for fetching and processing data from the Crunchbase API.
-Write functions to test API connectivity.
-Start playing around with Python libraries for data analysis.
-**Week 3 (Nov 27th - Dec 3)**
-Integrate the chosen type of notification API (telegram, slack, sheets, Gmail, we will choose one)
-Finalize notifications and data analysis for industry trends
-Conduct in-depth testing of our tool to ensure functionality and reliability.
-Finish the README.
-Find the best ways to showcase the results
++ Read and understand the CrunchBase API documentation
++ Set up initial environment and API keys.
+
++ **Week 2 (Nov 20th - 26th)**
++ Begin developing the core functionality for fetching and processing data from the Crunchbase API.
++ Write functions to test API connectivity.
++ Start playing around with Python libraries for data analysis.
+
++ **Week 3 (Nov 27th - Dec 3)**
++ Integrate the chosen type of notification API (telegram, slack, sheets, Gmail, we will choose one)
++ Finalize notifications and data analysis for industry trends
++ Conduct in-depth testing of our tool to ensure functionality and reliability.
++ Finish the README.
++ Find the best ways to showcase the results and create them
 
 
 ## Collaboration Plan: How will you collaborate with your teammates on this project? Will you divide tasks and then incorporate them separately? Will you undertake a comprehensive pair program? Explain how you'll ensure effective team collaboration. This may also entail information on any software development methodologies you anticipate using (e.g. agile development). Be sure to clarify why you've picked this specific organizational structure.
