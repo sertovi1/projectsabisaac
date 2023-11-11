@@ -27,7 +27,7 @@ Spreadsheets (More [here](https://developers.google.com/sheets/api/quickstart/py
 
 ## Project Schedule: You have 6 weeks (roughly) to finish the project. Draft a general timeline for your project. Depending on your project, you might be able to provide a detailed schedule or only an overview. Preparation of a longer project is also accompanied by present uncertainty, and this schedule will likely require revisions as the project progresses.
 
-+ The project presentation is due 12/04 and code submission is 12/09/
++ The project presentation is due 12/04 and code submission is 12/09
 
 
 ### Timeline:
@@ -36,12 +36,12 @@ Spreadsheets (More [here](https://developers.google.com/sheets/api/quickstart/py
 + Read and understand the CrunchBase API documentation
 + Set up initial environment and API keys.
 
-+ **Week 2 (Nov 20th - 26th)**
+**Week 2 (Nov 20th - 26th)**
 + Begin developing the core functionality for fetching and processing data from the Crunchbase API.
 + Write functions to test API connectivity.
 + Start playing around with Python libraries for data analysis.
 
-+ **Week 3 (Nov 27th - Dec 3)**
+**Week 3 (Nov 27th - Dec 3)**
 + Integrate the chosen type of notification API (telegram, slack, sheets, Gmail, we will choose one)
 + Finalize notifications and data analysis for industry trends
 + Conduct in-depth testing of our tool to ensure functionality and reliability.
